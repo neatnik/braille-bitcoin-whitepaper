@@ -1,6 +1,6 @@
 # The Bitcoin Whitepaper in Braille
 
-This is the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf) in Braille. Includes tactile diagrams. Produced in 2017 by [Adam Newbold](https://adam.lol); transcribed and printed by the [American Printing House for the Blind](https://www.aph.org) in Louisville, KY.
+This is the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf) in Braille. Includes tactile diagrams. Produced in 2017 by [Adam Newbold](https://neatnik.net/adam/); transcribed and printed by the [American Printing House for the Blind](https://www.aph.org) in Louisville, KY.
 
 ![The first page of the Bitcoin whitepaper in Braille](https://neatnik.net/bitcoin/braille/braille-bitcoin-whitepaper-page-one.png)
 
